@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CrashCourse</string>
+    <string name="first_app_on_this_comp">First app on this comp!</string>
+    <string name="view_list_of_activities">View List of Activities</string>
+</resources>
